@@ -6,14 +6,23 @@ var languageStrings = {
     "en": {
         "translation": {
             "FACTS": [
+                "During the French Revolution, a theory of evolution proposed by Baptiste lamarck was used to challenge the authority of the king as well as that of the church. England, anticipating problems, made evolution a scandalous idea",
+                "About 9% of humans are born without a plantaris muscle, the one in the foot our ancestors used to grip and manipulate objects. Those that have it, though, hardly use it as it has lost its ability in our species.",
                 "Some snakes have hipbones, which shows they once had four legs like their close cousins the lizards.",
                 "Birds and dinosaurs both evolved from reptiles. The closest living reptilian relation of a bird is the crocodile.",
+                "Some scientists think that the pink tissue in the corner of the human eye is a remnant of a third eye, not unlike that of birds, reptiles and fish.",
                 "Until about 10,000 years ago, most people had brown eyes. A single genetic mutation originating in the Black Sea is responsible for the current 8% of the world’s population that has blue eyes.",
                 "All humans develop a tail in the womb that eventually dissolves.",
+                "About 85% of people can't voluntarily moe their ears. It's thought that we lost this ability somewhere on the way to become the humans we are today.",
                 "The phrase 'Survival of the Fittest' is not Darwin's. It was actually oined by the philosopher Herbert Spencer.",
+                "If all frog eggs were successful, we would be knee-deep in frogs within the next ten years.",
+                "Until about 250,000 years ago, homo sapiens lived alongside neanderthals. They also happened to have a larger body and brain.",
+                "The majority of DNA is junk, meaning that it does not code for aprotein. Evolution is often incomplete or inefficient.",
                 "Darwin never said that humans come from monkeys. His words actually quote a hairy, tailed, quadruped and probably arboreal ancestor.",
                 "Humans share about 31% of their genes with yeast, and about 50% with bananas.",
-                "WIP!!"
+                "The platypus is a strange creature due to its early separation as a mammal from reptiles. It lays eggs but also produces milk, and it has evolved an ability to produce venom independently of its reptile ancestors.",
+                "Humans' lack of hair is an adaptation to navigate shallow waters, lose heat faster in the hot savanna and reduce the number of parasites in the body.",
+                "Hiccups might have originated in our watery ancestors. The mechanism that allows fish to push water over gills has been imperfectly rewired in mammals. This can sometimes cause spams, or hiccups."
             ],
             "SKILL_NAME" : "Evolution Facts",
             "GET_FACT_MESSAGE" : "Here's your fact: ",
