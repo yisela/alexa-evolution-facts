@@ -84,7 +84,7 @@ var languageStrings = {
                 "Homo Sapiens has always used fire as a tool. Our evolution has was accompanied and augmented by it. Anything else I can help with?",
                 "Hiccups might have originated in our watery ancestors. The mechanism that allows fish to push water over gills has been imperfectly rewired in mammals. This can sometimes cause spams, or hiccups. Anything else I can help with?"
             ],
-            "SKILL_NAME" : "American Space Facts"
+            "SKILL_NAME" : "Evolution Facts"
         }
     },
     "en-GB": {
@@ -124,7 +124,7 @@ var languageStrings = {
                 "Homo Sapiens has always used fire as a tool. Our evolution has was accompanied and augmented by it. Anything else I can help with?",
                 "Hiccups might have originated in our watery ancestors. The mechanism that allows fish to push water over gills has been imperfectly rewired in mammals. This can sometimes cause spams, or hiccups. Anything else I can help with?"
             ],
-            "SKILL_NAME" : "British Space Facts"
+            "SKILL_NAME" : "Evolution Facts"
         }
     },
     "de": {
@@ -164,7 +164,7 @@ var languageStrings = {
                 "Homo Sapiens has always used fire as a tool. Our evolution has was accompanied and augmented by it. Anything else I can help with?",
                 "Hiccups might have originated in our watery ancestors. The mechanism that allows fish to push water over gills has been imperfectly rewired in mammals. This can sometimes cause spams, or hiccups. Anything else I can help with?"
             ],
-            "SKILL_NAME" : "Weltraumwissen auf Deutsch",
+            "SKILL_NAME" : "Evolution auf Deutsch",
             "GET_FACT_MESSAGE" : "Hier sind deine Fakten: ",
             "HELP_MESSAGE" : "Du kannst sagen, „Nenne mir einen Fakt über den Evolution“, oder du kannst „Beenden“ sagen... Wie kann ich dir helfen?",
             "HELP_REPROMPT" : "Wie kann ich dir helfen?",
